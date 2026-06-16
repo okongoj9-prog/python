@@ -10,3 +10,9 @@ gps_coordinates = (40.7128, -74.0060)
 # Example of a Dictionary
 user_profile = {"username": "coder123", "joined": 2026, "active": True}
 print(user_profile["username"]) # Output: coder123
+
+a = "10"
+b = "10"
+
+answer = a + b
+print(answer)
