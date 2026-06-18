@@ -16,3 +16,35 @@ b = "10"
 
 answer = a + b
 print(answer)
+
+
+response = input("Would you like food? (N/Y): ")
+
+if response == "Y":
+    print("Have some food!")
+else:
+    print("No food for you!")
+
+name = input("Enter your name: ")
+
+if name == "":
+    print("You did not type in your name!")
+else:
+    print(f"Hello {name}")
+
+
+age = input("Write your age? ")
+
+
+if age < 10:
+    print("“You are in Primary Classes”")
+elif age > 12 and age <= 15:
+    print("“You are in Junior Secondary”")
+elif age > 15 and age <= 19:
+    print("“You are in Senior Secondary”")
+elif age > 15 and age <= 19:
+    print("“You are in Senior Secondary”")
+elif age >= 19:
+    print("“You are in College”")
+else:
+    print("“You are in Transition Classes”")

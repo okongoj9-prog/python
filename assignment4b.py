@@ -1,0 +1,1 @@
+#Functions Assignment 1. Create a Function to Find Simple Interest – PRT/100 2. Create a Function to Find Area of a Triangle – 1/2bh. – (With Parameters)

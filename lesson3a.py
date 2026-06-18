@@ -3,12 +3,12 @@
 # a boolean value (False/True)
 # They are six in total i.e (> < >= <= !=)
 
-print(5>2)
-print(5<2)
-print(5>=2)
-print(5<=2)
-print(5==2)
-print(5!=5)
+print(5>2) # greater than
+print(5<2) # less than
+print(5>=2) # greater than or equal to
+print(5<=2) # less than or equal to
+print(5==2) # equal to
+print(5!=5) # not equal to
 
 # Logcal operators
 # Logical and - evalutes to true only if both or all of the condition are true
