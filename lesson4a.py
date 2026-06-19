@@ -3,7 +3,7 @@
 # We have 2 main functions:
 # In-built functions => Pre-installed i.e print(), append(), sort(), pop etc.
 
-# User Defined function => Created by the programmer . To create a user defined function we use the def keyboard follwed by the name of the function, parentheses and a full colon at the end. On the line that follows, you need to indent which marks the strart of the body of the function.
+# User Defined function => Created by the programmer . To create a user defined function we use the def keyword follwed by the name of the function, parentheses and a full colon at the end. On the line that follows, you need to indent which marks the strart of the body of the function.
 
 def greating():
     print("Hello there. Hope you are doing fine")
