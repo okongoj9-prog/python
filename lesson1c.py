@@ -42,3 +42,4 @@ print("the modulas of the number is:",floor)
 k = 10
 exponet = k**2
 print("the exponentof the number is:",exponet)
+
